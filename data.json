@@ -1,0 +1,532 @@
+{
+  "1496069810033922118": {
+    "settings": {
+      "role_thresholds": {
+        "1496120511598690406": 15,
+        "1496120515306324129": 25,
+        "1496120484427989135": 1,
+        "1496120455755727040": 100
+      },
+      "owner_ids": [],
+      "conditional_paths": [],
+      "whitelisted_channels": [
+        1496379194375147590
+      ],
+      "blacklisted_channels": [],
+      "blacklisted_members": [],
+      "spam_interval": 5.0,
+      "count_emojis": false,
+      "include_vc_in_roles": false,
+      "vc_role_thresholds": {}
+    },
+    "users": {
+      "821065175615406131": {
+        "total": 32,
+        "daily": {
+          "2026-04-21": 32
+        },
+        "weekly": {
+          "2026-W16": 32
+        },
+        "monthly": {
+          "2026-04": 32
+        },
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {}
+      },
+      "1393147863969697864": {
+        "total": 50,
+        "daily": {
+          "2026-04-21": 50
+        },
+        "weekly": {
+          "2026-W16": 50
+        },
+        "monthly": {
+          "2026-04": 50
+        },
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {}
+      },
+      "837728462700544000": {
+        "total": 1,
+        "daily": {
+          "2026-04-22": 1
+        },
+        "weekly": {
+          "2026-W16": 1
+        },
+        "monthly": {
+          "2026-04": 1
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {}
+      },
+      "1338577865809203230": {
+        "total": 5,
+        "daily": {
+          "2026-04-22": 5
+        },
+        "weekly": {
+          "2026-W16": 5
+        },
+        "monthly": {
+          "2026-04": 5
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {}
+      },
+      "1036131224705581087": {
+        "total": 7,
+        "daily": {
+          "2026-04-22": 7
+        },
+        "weekly": {
+          "2026-W16": 7
+        },
+        "monthly": {
+          "2026-04": 7
+        },
+        "vc_total": 7.74,
+        "vc_daily": {
+          "2026-04-22": 7.74
+        },
+        "vc_weekly": {
+          "2026-W16": 7.74
+        },
+        "vc_monthly": {
+          "2026-04": 7.74
+        }
+      }
+    }
+  },
+  "1347622998089142474": {
+    "settings": {
+      "role_thresholds": {},
+      "vc_role_thresholds": {},
+      "conditional_paths": [
+        {
+          "trigger_role_id": "1417889650864816230",
+          "thresholds": {
+            "1361360401723428914": 400,
+            "1463761206044131476": 900,
+            "1463760898135953459": 1500,
+            "1463761966366588969": 1900,
+            "1362735136663408781": 2700,
+            "1378364336896086117": 4000,
+            "1361285660186513418": 3900,
+            "1486091305644982283": 3200,
+            "1473304844486971392": 3700,
+            "1463760578437713991": 3900,
+            "1487339372175949905": 4600,
+            "1354680517823561778": 5600,
+            "1390953765250666636": 6500,
+            "1463762212878291005": 7800,
+            "1386205226112913448": 9000,
+            "1482631059509215335": 10000
+          }
+        }
+      ],
+      "whitelisted_channels": [
+        1351496924489846836
+      ],
+      "blacklisted_channels": [],
+      "blacklisted_members": [],
+      "owner_ids": [],
+      "spam_interval": 5.0,
+      "count_emojis": true,
+      "include_vc_in_roles": false,
+      "welcome_channel": null,
+      "welcome_message": "Welcome to the server, {mention}! \ud83c\udf89",
+      "goodbye_channel": null,
+      "goodbye_message": "**{name}** has left the server.",
+      "mute_role": null,
+      "log_channel": null,
+      "automod_enabled": false,
+      "automod_banned_words": [],
+      "automod_max_mentions": 5,
+      "automod_max_caps_pct": 80,
+      "ticket_category": null,
+      "ticket_support_role": null,
+      "announcement_channel": "1497217852787396670",
+      "announcement_message": "\"\ud83c\udf89 {mention} got {role}!\""
+    },
+    "users": {
+      "1091212857452023899": {
+        "total": 12,
+        "daily": {
+          "2026-04-25": 12
+        },
+        "weekly": {
+          "2026-W16": 12
+        },
+        "monthly": {
+          "2026-04": 12
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1048734259994697778": {
+        "total": 70,
+        "daily": {
+          "2026-04-25": 70
+        },
+        "weekly": {
+          "2026-W16": 70
+        },
+        "monthly": {
+          "2026-04": 70
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1377278261918175252": {
+        "total": 56,
+        "daily": {
+          "2026-04-25": 56
+        },
+        "weekly": {
+          "2026-W16": 56
+        },
+        "monthly": {
+          "2026-04": 56
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1423241971752898610": {
+        "total": 24,
+        "daily": {
+          "2026-04-25": 24
+        },
+        "weekly": {
+          "2026-W16": 24
+        },
+        "monthly": {
+          "2026-04": 24
+        },
+        "vc_total": 7.37,
+        "vc_daily": {
+          "2026-04-25": 7.37
+        },
+        "vc_weekly": {
+          "2026-W16": 7.37
+        },
+        "vc_monthly": {
+          "2026-04": 7.37
+        },
+        "warnings": 0
+      },
+      "928181714793140284": {
+        "total": 54,
+        "daily": {
+          "2026-04-25": 54
+        },
+        "weekly": {
+          "2026-W16": 54
+        },
+        "monthly": {
+          "2026-04": 54
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1393147863969697864": {
+        "total": 15,
+        "daily": {
+          "2026-04-25": 15
+        },
+        "weekly": {
+          "2026-W16": 15
+        },
+        "monthly": {
+          "2026-04": 15
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "821065175615406131": {
+        "total": 16,
+        "daily": {
+          "2026-04-25": 16
+        },
+        "weekly": {
+          "2026-W16": 16
+        },
+        "monthly": {
+          "2026-04": 16
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1167330976448393351": {
+        "total": 109,
+        "daily": {
+          "2026-04-25": 109
+        },
+        "weekly": {
+          "2026-W16": 109
+        },
+        "monthly": {
+          "2026-04": 109
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "837728462700544000": {
+        "total": 11,
+        "daily": {
+          "2026-04-25": 11
+        },
+        "weekly": {
+          "2026-W16": 11
+        },
+        "monthly": {
+          "2026-04": 11
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1461902748168753344": {
+        "total": 15,
+        "daily": {
+          "2026-04-25": 15
+        },
+        "weekly": {
+          "2026-W16": 15
+        },
+        "monthly": {
+          "2026-04": 15
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1343140287098261507": {
+        "total": 41,
+        "daily": {
+          "2026-04-25": 41
+        },
+        "weekly": {
+          "2026-W16": 41
+        },
+        "monthly": {
+          "2026-04": 41
+        },
+        "vc_total": 6.68,
+        "vc_daily": {
+          "2026-04-25": 6.68
+        },
+        "vc_weekly": {
+          "2026-W16": 6.68
+        },
+        "vc_monthly": {
+          "2026-04": 6.68
+        },
+        "warnings": 0
+      },
+      "1365552977653534754": {
+        "total": 13,
+        "daily": {
+          "2026-04-25": 13
+        },
+        "weekly": {
+          "2026-W16": 13
+        },
+        "monthly": {
+          "2026-04": 13
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1396736880925610053": {
+        "total": 52,
+        "daily": {
+          "2026-04-25": 52
+        },
+        "weekly": {
+          "2026-W16": 52
+        },
+        "monthly": {
+          "2026-04": 52
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "827811246833270805": {
+        "total": 19,
+        "daily": {
+          "2026-04-25": 19
+        },
+        "weekly": {
+          "2026-W16": 19
+        },
+        "monthly": {
+          "2026-04": 19
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1412682398587424789": {
+        "total": 3,
+        "daily": {
+          "2026-04-25": 3
+        },
+        "weekly": {
+          "2026-W16": 3
+        },
+        "monthly": {
+          "2026-04": 3
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1475462357621801012": {
+        "total": 49,
+        "daily": {
+          "2026-04-25": 49
+        },
+        "weekly": {
+          "2026-W16": 49
+        },
+        "monthly": {
+          "2026-04": 49
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1462327703616225315": {
+        "total": 1,
+        "daily": {
+          "2026-04-25": 1
+        },
+        "weekly": {
+          "2026-W16": 1
+        },
+        "monthly": {
+          "2026-04": 1
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1338577865809203230": {
+        "total": 3,
+        "daily": {
+          "2026-04-25": 3
+        },
+        "weekly": {
+          "2026-W16": 3
+        },
+        "monthly": {
+          "2026-04": 3
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1400139127479079128": {
+        "total": 1,
+        "daily": {
+          "2026-04-25": 1
+        },
+        "weekly": {
+          "2026-W16": 1
+        },
+        "monthly": {
+          "2026-04": 1
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1363133549250740296": {
+        "total": 1,
+        "daily": {
+          "2026-04-25": 1
+        },
+        "weekly": {
+          "2026-W16": 1
+        },
+        "monthly": {
+          "2026-04": 1
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      },
+      "1468149184137007252": {
+        "total": 3,
+        "daily": {
+          "2026-04-25": 3
+        },
+        "weekly": {
+          "2026-W16": 3
+        },
+        "monthly": {
+          "2026-04": 3
+        },
+        "vc_total": 0,
+        "vc_daily": {},
+        "vc_weekly": {},
+        "vc_monthly": {},
+        "warnings": 0
+      }
+    }
+  }
+}

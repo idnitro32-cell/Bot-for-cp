@@ -1,0 +1,24 @@
+{
+  "1496069810033922118": {
+    "sync_bots": [
+      {
+        "bot_id": 906085578909548554,
+        "bot_name": "\"OldRankBot\"",
+        "synced_at": "2026-04-25T00:16:14.672936",
+        "last_sync": null
+      }
+    ],
+    "sync_logs": []
+  },
+  "1347622998089142474": {
+    "sync_bots": [
+      {
+        "bot_id": 899899858981371935,
+        "bot_name": "falcon",
+        "synced_at": "2026-04-25T00:27:13.951984",
+        "last_sync": null
+      }
+    ],
+    "sync_logs": []
+  }
+}
